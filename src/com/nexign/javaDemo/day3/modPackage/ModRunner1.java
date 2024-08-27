@@ -1,6 +1,6 @@
 package com.nexign.javaDemo.day3.modPackage;
 
-import com.nexign.javaDemo.day3.ModDemo;
+
 
 public class ModRunner1 extends ModDemo{
     public static void main(String[] args) {
